@@ -24,7 +24,4 @@ To run InsightHeaven in your local development environment, follow these steps:
    ```bash
    npm start
 
-   Runs the app in the development mode.\
-   Opens a [http://localhost:3000](http://localhost:3000) to view it in your browser.
-   The page will reload when you make changes.\
-   You may also see any lint errors in the console.
+3. Runs the app in the development mode.Opens a [http://localhost:3000](http://localhost:3000) to    view it in your browser.
